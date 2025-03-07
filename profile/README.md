@@ -8,6 +8,14 @@ BlockCaffeine is a team project at the University of Mannheim, developed by a gr
 
 This project is currently a work in progress. We are actively developing and testing the system, and updates will be shared as we progress. Stay tuned for more details!
 
+## Project Organization 📂
+
+For tracking project tasks, we are using GitHub Projects. Issues are created in the `.github` repository and assigned to the respective team members.
+
+- [**Create Issue**](https://github.com/BlockCaffeine/.github/issues/new?template=issue-template.md)
+
+- [**Project Board**](https://github.com/orgs/BlockCaffeine/projects/1/views/1)
+
 ## Repositories & Links 🔗
 
 We will add more relevant repositories and documentation soon. For now, feel free to follow our journey as we build BlockCaffeine!
